@@ -91,7 +91,9 @@
 После выполнения тестов можно сгенерировать HTML-отчет Allure.
 
 1.  Убедитесь, что Allure Commandline установлен. Если нет, его можно установить через Homebrew (macOS), Scoop (Windows) или из бинарных файлов.
-
+    ```bash
+    brew install allure
+    ```
 2.  Выполните команду для генерации отчета:
     ```bash
     allure serve allure-results
