@@ -8,3 +8,4 @@ webdriver-manager
 python-dotenv
 google-genai
 openai
+pyperclip
