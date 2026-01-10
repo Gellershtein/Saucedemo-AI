@@ -1,0 +1,27 @@
+{
+  "provider": "gemini",
+
+  "openai": {
+    "api_key": "LOAD_FROM_ENV",
+    "model": "gpt-4o-mini",
+    "temperature": 0.2,
+    "max_tokens": 900
+  },
+
+  "gemini": {
+    "api_key": "LOAD_FROM_ENV",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.2,
+    "max_tokens": 900
+  },
+
+  "mistral": {
+    "api_key": "LOAD_FROM_ENV",
+    "model": "mistral-small-latest"
+  },
+
+  "limits": {
+    "max_code_length": 12000
+  }
+}
+

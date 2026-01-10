@@ -106,3 +106,4 @@ venv.bak/
 # test
 allure-results/
 test_run.log
+.env
