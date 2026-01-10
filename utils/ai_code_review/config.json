@@ -12,7 +12,7 @@
     "api_key": "LOAD_FROM_ENV",
     "model": "gemini-2.5-flash",
     "temperature": 0.2,
-    "max_tokens": 900
+    "max_tokens": 1500
   },
 
   "mistral": {
