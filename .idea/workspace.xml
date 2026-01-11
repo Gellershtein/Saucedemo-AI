@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e64d95a-f723-4898-90ee-e40a06b09ba2" name="Changes" comment="ai project">
-      <change afterPath="$PROJECT_DIR$/utils/ai_code_review/ai_code_review_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/ai_code_review/ai_code_review old.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/ai_code_review/qa_code_review_prompt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/ai_code_review/run_ai_code_review old.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils/ai_code_review/ai_code_review.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/ai_code_review/ai_code_review.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/ai_code_review/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/utils/ai_code_review/config.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768063468126</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ai project">
+      <option name="closed" value="true" />
+      <created>1768065971945</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1768065971945</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
